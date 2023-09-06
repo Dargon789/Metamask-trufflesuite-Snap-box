@@ -7,7 +7,11 @@
     "url": "https://github.com/MetaMask/template-snap-monorepo.git"
   },
   "source": {
+<<<<<<< HEAD
     "shasum": "/CfdwLba02Zi41l1AFmJCu2qE6KFu3FduF1FlmU/jcM=",
+=======
+    "shasum": "ujiT3+MJEKh17asZQdf5FSrjeE0bE9zgemivHgKhmRQ=",
+>>>>>>> db61358 (Merge pull request #6183 from trufflesuite/direction)
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",
